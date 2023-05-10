@@ -8,6 +8,9 @@
   },
   "author": "Ranto Lubis",
   "license": "ISC",
+  "engines": {
+    "node":  "v18.15.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
